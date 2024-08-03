@@ -14,6 +14,8 @@ Leverage advanced DAX queries to manipulate and analyze data effectively.
 ## Components
 ### Power BI Dashboard: 
 The primary file 'CC_Dashboard.pbix' includes all the visualizations, data models, and queries.
+![WhatsApp Image 2024-08-03 at 2 44 58 AM](https://github.com/user-attachments/assets/1464c61e-1e8f-4ba8-9937-7cddda1a7634)
+
 ### Data Sources: 
 Contains sample data used for demonstrating insights. 
 ### Documentation: 
@@ -27,5 +29,5 @@ Guides and notes on the data model, DAX queries, and visualization techniques.
 
 ## Contact
 For any questions or feedback, please contact me at devanshdmp15@gmail.com.
-You can request for the access to the file on https://aka.ms/AAroy40
+You can request for the access to the file on https://aka.ms/AAroy40.
 
